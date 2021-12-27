@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    background-color: rgb(245 245 245);
+}
+
+.container {
+    background-color: rgb(255 255 255);
+    display: flex;
+    justify-content: center;
+    padding-top: 5vh;
+
+}
